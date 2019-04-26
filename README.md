@@ -1,2 +1,2 @@
 # The_Book_of_C
-Homework problems for "The C Programming Language"
+My solutions for the example problems in "The C Programming Language" by Brian Kernighan and Dennis Ritchie. 
